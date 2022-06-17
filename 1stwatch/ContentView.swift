@@ -19,3 +19,7 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
+func log(){
+    print("test")
+}
